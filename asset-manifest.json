@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travelmate/static/css/main.891f2866.css",
+    "main.js": "/travelmate/static/js/main.d51d872c.js",
+    "static/js/787.5c6a7765.chunk.js": "/travelmate/static/js/787.5c6a7765.chunk.js",
+    "static/media/slider-img2.jpg": "/travelmate/static/media/slider-img2.5464e472c3a03c6af149.jpg",
+    "static/media/slider-img3.jpg": "/travelmate/static/media/slider-img3.5e3e44e62a635cf3bad7.jpg",
+    "static/media/slider-img1.jpg": "/travelmate/static/media/slider-img1.cddecee689bc37765059.jpg",
+    "static/media/slider-img4.jpg": "/travelmate/static/media/slider-img4.73e3f9e650fb6b45783a.jpg",
+    "static/media/nature-background.jpg": "/travelmate/static/media/nature-background.076a84276c62ea3351b3.jpg",
+    "index.html": "/travelmate/index.html",
+    "main.891f2866.css.map": "/travelmate/static/css/main.891f2866.css.map",
+    "main.d51d872c.js.map": "/travelmate/static/js/main.d51d872c.js.map",
+    "787.5c6a7765.chunk.js.map": "/travelmate/static/js/787.5c6a7765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891f2866.css",
+    "static/js/main.d51d872c.js"
+  ]
+}
