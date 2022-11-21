@@ -1,20 +1,27 @@
 {
   "files": {
     "main.css": "/travelmate/static/css/main.891f2866.css",
-    "main.js": "/travelmate/static/js/main.d51d872c.js",
+    "main.js": "/travelmate/static/js/main.108d7886.js",
     "static/js/787.5c6a7765.chunk.js": "/travelmate/static/js/787.5c6a7765.chunk.js",
-    "static/media/slider-img2.jpg": "/travelmate/static/media/slider-img2.5464e472c3a03c6af149.jpg",
-    "static/media/slider-img3.jpg": "/travelmate/static/media/slider-img3.5e3e44e62a635cf3bad7.jpg",
-    "static/media/slider-img1.jpg": "/travelmate/static/media/slider-img1.cddecee689bc37765059.jpg",
-    "static/media/slider-img4.jpg": "/travelmate/static/media/slider-img4.73e3f9e650fb6b45783a.jpg",
+    "static/media/slider-img3.webp": "/travelmate/static/media/slider-img3.2b33e0c6b2e57492765a.webp",
     "static/media/nature-background.jpg": "/travelmate/static/media/nature-background.076a84276c62ea3351b3.jpg",
+    "static/media/slider-img1.webp": "/travelmate/static/media/slider-img1.33ebaec1686d00b1f83f.webp",
+    "static/media/slider-img2.webp": "/travelmate/static/media/slider-img2.510e22e9d11fcb7337fb.webp",
+    "static/media/slider-img4.webp": "/travelmate/static/media/slider-img4.daf3e49750879321b0c2.webp",
+    "static/media/man1.jpg": "/travelmate/static/media/man1.5aa4d3f3e0c250ab6551.jpg",
+    "static/media/man2.jpg": "/travelmate/static/media/man2.91c23cc5dfefbe07ba3c.jpg",
+    "static/media/hotel-img1.webp": "/travelmate/static/media/hotel-img1.ee8bd1d4adcfd01ef490.webp",
+    "static/media/hotel-img3.webp": "/travelmate/static/media/hotel-img3.ffa613ab43f868c59dc0.webp",
+    "static/media/hotel-img2.webp": "/travelmate/static/media/hotel-img2.275beaa4ed7c7955bd68.webp",
+    "static/media/man3.jpg": "/travelmate/static/media/man3.dc35b8bd524fb09c8383.jpg",
+    "static/media/man4.jpg": "/travelmate/static/media/man4.4c73aa6ea03ac88455f3.jpg",
     "index.html": "/travelmate/index.html",
     "main.891f2866.css.map": "/travelmate/static/css/main.891f2866.css.map",
-    "main.d51d872c.js.map": "/travelmate/static/js/main.d51d872c.js.map",
+    "main.108d7886.js.map": "/travelmate/static/js/main.108d7886.js.map",
     "787.5c6a7765.chunk.js.map": "/travelmate/static/js/787.5c6a7765.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.891f2866.css",
-    "static/js/main.d51d872c.js"
+    "static/js/main.108d7886.js"
   ]
 }
